@@ -1,10 +1,10 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 <h1 align="center">Hi 👋, I'm Mohit Punjabi</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
 - 🌱 I’m currently learning **Google Cloud, Data Structures in Java**
 
-- 📫 How to reach me **mohitpanjabbi@gmail.com**
+<!-- - 📫 How to reach me **mohitpanjabbi@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
