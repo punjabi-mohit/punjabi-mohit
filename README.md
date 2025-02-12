@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 <h1 align="center">Hi 👋, I'm Mohit Punjabi</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+<!-- <h3 align="center">A passionate Data Engineer</h3> -->
 
 - 🌱 I’m currently learning **Google Cloud, Data Structures in Java**
 
